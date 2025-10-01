@@ -1,6 +1,6 @@
 # `prompts.md` ✨
 
-## Prompts para la Construcción del API (Arquitectura Hexagonal) 🧑‍💻
+## Prompts para la Construcción de Backend API Item Detail Page 🧑‍💻
 
 Estos *prompts* simulan la secuencia de solicitudes necesarias para construir el API de detalle productos utilizando **Java 21**, **Spring Boot 3** y la **Arquitectura Hexagonal** (*Ports and Adapters*).
 
@@ -25,4 +25,17 @@ Resultado Clave: Creación de las carpetas domain, port, y adapter.
 ```java
 Propósito: Definir la estructura compleja de características del producto (grupos anidados).
 Resultado Clave: Refactorización de Product.java y actualización de products.json (30 registros jerárquicos).
+```
+> "Actualiza los modelos usando Lombok y configura el application.properties: puerto, contexto"
+
+```java
+Propósito: Optimizar codigo fuente de los modelos, getter y setter, junto con los constructores de las clases 
+Resultado Clave: Configuración del puerto y contexto del aplicativo, en conjunto con la optimización de codigo fuente
+```
+
+> "Genera las pruebas unitarias del codigo fuente para los servicios, controladores y persistencia a traves de JUnit con Mockito"
+
+```java
+Propósito: Iniciar la cobertura de pruebas.
+Resultado Clave: Creación de ProductServiceTest y JsonProductPersistenceTest (JUnit 5 y Mockito)
 ```
