@@ -9,7 +9,6 @@ Lenguaje: Java 21
 Framework: Spring Boot 3.5.6
 Herramientas: Lombok (para modelos limpios), Maven (gestor de dependencias).
 Pruebas: JUnit 5 y Mockito.
-
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/81a7d7a2-8e0c-448f-aede-e19ed0189612" />
 
 🛠️ Instalación y Ejecución
@@ -30,6 +29,11 @@ cd deployment
 java -jar meli.jar
 
 La aplicación estará disponible en http://localhost:8081.
+
+# La aplicación cuenta con swagger-ui.html para tener acceso a los Endpoints disponibles y su documentación.
+http://localhost:8081/meli/swagger-ui/index.html
+<img width="1890" height="881" alt="image" src="https://github.com/user-attachments/assets/027e51a9-798b-4d3b-81e5-4ccb0b7f37d2" />
+
 
 📌 Endpoints de la API
 La base de la API es /meli/api/products.
