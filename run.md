@@ -21,13 +21,13 @@ Navegue al directorio raíz del proyecto (donde se encuentra el archivo `pom.xml
 
 ```bash
 mvn clean install
-
+```
 Luego ubique la carpeta (**target**) y ejecute:
 
 ```bash
 java -jar target/nombre-del-proyecto-0.0.1-SNAPSHOT.jar
+```
 
-
-
+---
 🎉 Uso de Swagger UI
 Abra su navegador y navegue a http://localhost:8081/meli/swagger-ui.html para ver la documentación interactiva generada por springdoc-openapi. Aquí podrá ver todos los endpoints documentados y probar las peticiones directamente.
