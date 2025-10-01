@@ -10,6 +10,8 @@ Framework: Spring Boot 3.5.6
 Herramientas: Lombok (para modelos limpios), Maven (gestor de dependencias).
 Pruebas: JUnit 5 y Mockito.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/81a7d7a2-8e0c-448f-aede-e19ed0189612" />
+
 🛠️ Instalación y Ejecución
 Clonar el Repositorio:
 git clone https://github.com/leyder154611/meli-challenge
