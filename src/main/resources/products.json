@@ -1,0 +1,1843 @@
+[
+    {
+        "id": 101,
+        "title": "Control Inalámbrico Xbox Elite Series 2 - Negro",
+        "currency": "ARS",
+        "condition": "Nuevo",
+        "stockQuantity": 8,
+        "description": "El control Xbox Elite Series 2 ofrece joysticks de tensión ajustable, nuevos componentes intercambiables y gatillos con bloqueo. Diseñado para el gaming competitivo.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/0A3D62/FFFFFF%3Ftext%3DControl%2BElite%2BNegro"
+        ],
+        "priceDetails": {
+            "currentPrice": 697464.00,
+            "originalPrice": 734173.00,
+            "discountPercentage": 5.0
+        },
+        "sellerInfo": {
+            "name": "GAMER ZONE AR",
+            "rating": 4.8,
+            "salesVolume": 1000
+        },
+        "installments": {
+            "count": 9,
+            "amount": 77496.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Llega mañana",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Características Principales",
+                "features": [
+                    {
+                        "featureType": "Plataformas compatibles",
+                        "detail": "Xbox One, Xbox Series X|S, PC"
+                    },
+                    {
+                        "featureType": "Tipo de conexión",
+                        "detail": "Inalámbrica y USB-C"
+                    },
+                    {
+                        "featureType": "Color principal",
+                        "detail": "Negro"
+                    },
+                    {
+                        "featureType": "Material",
+                        "detail": "Polímero de alto impacto"
+                    },
+                    {
+                        "featureType": "Incluye estuche",
+                        "detail": "Sí"
+                    }
+                ]
+            },
+            {
+                "groupName": "Ergonomía y Batería",
+                "features": [
+                    {
+                        "featureType": "Duración de batería",
+                        "detail": "Hasta 40 horas"
+                    },
+                    {
+                        "featureType": "Tipo de batería",
+                        "detail": "Integrada recargable"
+                    },
+                    {
+                        "featureType": "Grip texturizado",
+                        "detail": "Sí"
+                    },
+                    {
+                        "featureType": "Palancas intercambiables",
+                        "detail": "3 pares"
+                    },
+                    {
+                        "featureType": "Configuración de perfiles",
+                        "detail": "Hasta 3 perfiles"
+                    }
+                ]
+            }
+        ],
+        "variations": [
+            {
+                "name": "Color",
+                "value": "Negro",
+                "priceAdjustment": 0.0,
+                "variationImageUrl": "https://www.google.com/search?q=https://placehold.co/60x60/000000/FFFFFF%3Ftext%3DN"
+            },
+            {
+                "name": "Color",
+                "value": "Blanco",
+                "priceAdjustment": 50000.00,
+                "variationImageUrl": "https://www.google.com/search?q=https://placehold.co/60x60/FFFFFF/000000%3Ftext%3DB"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "title": "Smart TV Samsung 4K UHD 50 (Modelo 2024)","currency": "CLP",
+        "condition": "Nuevo",
+        "stockQuantity": 25,
+        "description": "Televisor inteligente de última generación con resolución 4K, tecnología HDR y SmartThings integrado.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/FF5733/FFFFFF%3Ftext%3DTV%2BSamsung%2B50%2BUHD"
+        ],
+        "priceDetails": {
+            "currentPrice": 459990.00,
+            "originalPrice": 509990.00,
+            "discountPercentage": 9.8
+        },
+        "sellerInfo": {
+            "name": "Electro Hogar Max",
+            "rating": 4.5,
+            "salesVolume": 3500
+        },
+        "installments": {
+            "count": 12,
+            "amount": 38332.50,
+            "totalInterest": 50000.00
+        },
+        "shipping": {
+            "deliveryTime": "3 a 5 días hábiles",
+            "freeShipping": false,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Pantalla y Audio",
+                "features": [
+                    {
+                        "featureType": "Tamaño de pantalla",
+                        "detail": "50 pulgadas"
+                    },
+                    {
+                        "featureType": "Resolución",
+                        "detail": "3840x2160 (4K UHD)"
+                    },
+                    {
+                        "featureType": "Tecnología de panel",
+                        "detail": "LED"
+                    },
+                    {
+                        "featureType": "Frecuencia de actualización",
+                        "detail": "60 Hz"
+                    },
+                    {
+                        "featureType": "Potencia de sonido",
+                        "detail": "20W RMS"
+                    }
+                ]
+            },
+            {
+                "groupName": "Conectividad",
+                "features": [
+                    {
+                        "featureType": "Puertos HDMI",
+                        "detail": "3"
+                    },
+                    {
+                        "featureType": "Puertos USB",
+                        "detail": "2"
+                    },
+                    {
+                        "featureType": "Conexión Wi-Fi",
+                        "detail": "Sí (Doble banda)"
+                    },
+                    {
+                        "featureType": "Bluetooth",
+                        "detail": "Sí"
+                    },
+                    {
+                        "featureType": "Sistema operativo",
+                        "detail": "Tizen"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "title": "Notebook Dell Inspiron 15 - Core i5",
+        "currency": "USD",
+        "condition": "Nuevo",
+        "stockQuantity": 150,
+        "description": "Portátil ideal para trabajo y estudio, con procesador Intel Core i5 de última generación y 16GB de RAM.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/3A516C/FFFFFF%3Ftext%3DLaptop%2BDell%2Bi5"
+        ],
+        "priceDetails": {
+            "currentPrice": 899.99,
+            "originalPrice": 1000.00,
+            "discountPercentage": 10.0
+        },
+        "sellerInfo": {
+            "name": "Tech Global Store",
+            "rating": 4.9,
+            "salesVolume": 850
+        },
+        "installments": {
+            "count": 12,
+            "amount": 74.99,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "24 horas",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Hardware Principal",
+                "features": [
+                    {
+                        "featureType": "Procesador",
+                        "detail": "Intel Core i5 (13va Gen)"
+                    },
+                    {
+                        "featureType": "Memoria RAM",
+                        "detail": "16 GB DDR4"
+                    },
+                    {
+                        "featureType": "Almacenamiento",
+                        "detail": "512 GB SSD"
+                    },
+                    {
+                        "featureType": "Tarjeta Gráfica",
+                        "detail": "Integrada Intel Iris Xe"
+                    },
+                    {
+                        "featureType": "Pantalla",
+                        "detail": "15.6'' Full HD"
+                    }
+                ]
+            },
+            {
+                "groupName": "Diseño y Periféricos",
+                "features": [
+                    {
+                        "featureType": "Peso",
+                        "detail": "1.7 kg"
+                    },
+                    {
+                        "featureType": "Teclado",
+                        "detail": "Español con pad numérico"
+                    },
+                    {
+                        "featureType": "Cámara web",
+                        "detail": "HD 720p"
+                    },
+                    {
+                        "featureType": "Sistema operativo",
+                        "detail": "Windows 11 Home"
+                    },
+                    {
+                        "featureType": "Color",
+                        "detail": "Plateado"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "title": "Zapatillas Nike Air Max 90",
+        "currency": "MXN",
+        "condition": "Nuevo",
+        "stockQuantity": 40,
+        "description": "Clásico atemporal con amortiguación Air Max visible en el talón.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/000080/FFFFFF%3Ftext%3DAir%2BMax%2B90%2BAzul"
+        ],
+        "priceDetails": {
+            "currentPrice": 2599.00,
+            "originalPrice": 3000.00,
+            "discountPercentage": 13.37
+        },
+        "sellerInfo": {
+            "name": "SneakerHead MX",
+            "rating": 4.7,
+            "salesVolume": 2200
+        },
+        "installments": {
+            "count": 6,
+            "amount": 433.17,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Envío gratis en 48h",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Detalles del Calzado",
+                "features": [
+                    {
+                        "featureType": "Marca",
+                        "detail": "Nike"
+                    },
+                    {
+                        "featureType": "Modelo",
+                        "detail": "Air Max 90"
+                    },
+                    {
+                        "featureType": "Material exterior",
+                        "detail": "Cuero y Textil"
+                    },
+                    {
+                        "featureType": "Tipo de ajuste",
+                        "detail": "Cordones"
+                    },
+                    {
+                        "featureType": "Suela",
+                        "detail": "Goma con unidad Air"
+                    }
+                ]
+            }
+        ],
+        "variations": [
+            {
+                "name": "Talla",
+                "value": "26.5 cm",
+                "priceAdjustment": 0.0,
+                "variationImageUrl": "https://www.google.com/search?q=https://placehold.co/60x60/800000/FFFFFF%3Ftext%3D26.5"
+            },
+            {
+                "name": "Talla",
+                "value": "27.0 cm",
+                "priceAdjustment": 0.0,
+                "variationImageUrl": "https://www.google.com/search?q=https://placehold.co/60x60/800000/FFFFFF%3Ftext%3D27"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "title": "Set de Ollas T-Fal Antiadherentes (10 Piezas)",
+        "currency": "COP",
+        "condition": "Nuevo",
+        "stockQuantity": 30,
+        "description": "Juego completo de cocina con revestimiento de cerámica antiadherente de alta durabilidad.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/FFA500/FFFFFF%3Ftext%3DOllas%2BCeramica"
+        ],
+        "priceDetails": {
+            "currentPrice": 399900.00,
+            "originalPrice": 550000.00,
+            "discountPercentage": 27.29
+        },
+        "sellerInfo": {
+            "name": "Cocina Feliz",
+            "rating": 4.9,
+            "salesVolume": 1800
+        },
+        "installments": {
+            "count": 6,
+            "amount": 66650.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "5 días hábiles",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Composición del Set",
+                "features": [
+                    {
+                        "featureType": "Cantidad de piezas",
+                        "detail": "10"
+                    },
+                    {
+                        "featureType": "Material",
+                        "detail": "Aluminio con revestimiento de cerámica"
+                    },
+                    {
+                        "featureType": "Apto para inducción",
+                        "detail": "No"
+                    },
+                    {
+                        "featureType": "Incluye tapas",
+                        "detail": "Sí (Vidrio templado)"
+                    },
+                    {
+                        "featureType": "Color",
+                        "detail": "Rojo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "title": "Drone DJI Mini 4 Pro con 4K",
+        "currency": "USD",
+        "condition": "Nuevo",
+        "stockQuantity": 12,
+        "description": "Drone plegable ultraligero con cámara 4K/60fps, ideal para fotografía aérea profesional.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/4CAF50/FFFFFF%3Ftext%3DDJI%2BMini%2B4%2BPro"
+        ],
+        "priceDetails": {
+            "currentPrice": 959.00,
+            "originalPrice": 959.00,
+            "discountPercentage": 0.0
+        },
+        "sellerInfo": {
+            "name": "AeroTech",
+            "rating": 4.6,
+            "salesVolume": 700
+        },
+        "installments": {
+            "count": 12,
+            "amount": 79.92,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Envío Express 2 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Especificaciones de Vuelo",
+                "features": [
+                    {
+                        "featureType": "Peso al despegar",
+                        "detail": "Menos de 249 g"
+                    },
+                    {
+                        "featureType": "Tiempo máximo de vuelo",
+                        "detail": "34 minutos"
+                    },
+                    {
+                        "featureType": "Distancia de transmisión",
+                        "detail": "18 km (O4)"
+                    },
+                    {
+                        "featureType": "Detección de obstáculos",
+                        "detail": "Omnidireccional"
+                    },
+                    {
+                        "featureType": "Resolución de video",
+                        "detail": "4K/60fps HDR"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "title": "Impresora Multifuncional Epson EcoTank L3250",
+        "currency": "PEN",
+        "condition": "Nuevo",
+        "stockQuantity": 50,
+        "description": "Impresora, copiadora y escáner con sistema de tanques de tinta de alta capacidad.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/5D4037/FFFFFF%3Ftext%3DEpson%2BEcoTank"
+        ],
+        "priceDetails": {
+            "currentPrice": 699.00,
+            "originalPrice": 850.00,
+            "discountPercentage": 17.76
+        },
+        "sellerInfo": {
+            "name": "Oficina Total",
+            "rating": 4.8,
+            "salesVolume": 15000
+        },
+        "installments": {
+            "count": 6,
+            "amount": 116.50,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Llega en 3 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Impresión y Conexión",
+                "features": [
+                    {
+                        "featureType": "Tipo de impresión",
+                        "detail": "Inyección de tinta"
+                    },
+                    {
+                        "featureType": "Funciones",
+                        "detail": "Imprime, Copia, Escanea"
+                    },
+                    {
+                        "featureType": "Conexión",
+                        "detail": "Wi-Fi, USB"
+                    },
+                    {
+                        "featureType": "Velocidad de impresión B/N",
+                        "detail": "33 ppm"
+                    },
+                    {
+                        "featureType": "Sistema de tinta",
+                        "detail": "Tanques rellenables"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "title": "Máquina de Café Espresso De'Longhi",
+        "currency": "BRL",
+        "condition": "Nuevo",
+        "stockQuantity": 22,
+        "description": "Máquina semi-automática con molinillo integrado y sistema de capuccino.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/6A0DAD/FFFFFF%3Ftext%3DCafetera%2BDeLonghi"
+        ],
+        "priceDetails": {
+            "currentPrice": 1250.00,
+            "originalPrice": 1400.00,
+            "discountPercentage": 10.71
+        },
+        "sellerInfo": {
+            "name": "Aroma Brasil",
+            "rating": 4.9,
+            "salesVolume": 900
+        },
+        "installments": {
+            "count": 10,
+            "amount": 125.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "15 días (Importado)",
+            "freeShipping": false,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Especificaciones Técnicas",
+                "features": [
+                    {
+                        "featureType": "Tipo de café",
+                        "detail": "Molido y en cápsulas"
+                    },
+                    {
+                        "featureType": "Presión",
+                        "detail": "15 bares"
+                    },
+                    {
+                        "featureType": "Potencia",
+                        "detail": "1300 W"
+                    },
+                    {
+                        "featureType": "Capacidad del tanque",
+                        "detail": "1.1 litros"
+                    },
+                    {
+                        "featureType": "Material de la caldera",
+                        "detail": "Acero inoxidable"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "title": "Mochila Táctica Militar 40L",
+        "currency": "ARS",
+        "condition": "Nuevo",
+        "stockQuantity": 70,
+        "description": "Mochila de gran capacidad, resistente al agua, con múltiples compartimentos para camping y trekking.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/228B22/FFFFFF%3Ftext%3DMochila%2BMilitar"
+        ],
+        "priceDetails": {
+            "currentPrice": 45000.00,
+            "originalPrice": 50000.00,
+            "discountPercentage": 10.0
+        },
+        "sellerInfo": {
+            "name": "Aventura Extrema",
+            "rating": 4.5,
+            "salesVolume": 1800
+        },
+        "installments": {
+            "count": 3,
+            "amount": 15000.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Llega en 48 horas",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Diseño y Resistencia",
+                "features": [
+                    {
+                        "featureType": "Capacidad",
+                        "detail": "40 litros"
+                    },
+                    {
+                        "featureType": "Material",
+                        "detail": "Nylon 900D (Impermeable)"
+                    },
+                    {
+                        "featureType": "Color",
+                        "detail": "Verde Oliva"
+                    },
+                    {
+                        "featureType": "Sistema Molle",
+                        "detail": "Sí"
+                    },
+                    {
+                        "featureType": "Correas de ajuste",
+                        "detail": "Pecho y cintura"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "title": "Teclado Mecánico Redragon K552 RGB",
+        "currency": "MXN",
+        "condition": "Nuevo",
+        "stockQuantity": 90,
+        "description": "Teclado compacto 87 teclas (TKL) con switches mecánicos Outemu Red para gaming rápido.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/FF0000/FFFFFF%3Ftext%3DTeclado%2BRedragon"
+        ],
+        "priceDetails": {
+            "currentPrice": 799.00,
+            "originalPrice": 1000.00,
+            "discountPercentage": 20.1
+        },
+        "sellerInfo": {
+            "name": "PC Master Race MX",
+            "rating": 4.4,
+            "salesVolume": 6000
+        },
+        "installments": {
+            "count": 3,
+            "amount": 266.33,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Llega en 2 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Generalidades Gaming",
+                "features": [
+                    {
+                        "featureType": "Tipo de teclado",
+                        "detail": "Mecánico"
+                    },
+                    {
+                        "featureType": "Formato",
+                        "detail": "TKL (Tenkeyless) - 87 teclas"
+                    },
+                    {
+                        "featureType": "Tipo de switch",
+                        "detail": "Outemu Red (Lineal)"
+                    },
+                    {
+                        "featureType": "Iluminación",
+                        "detail": "RGB configurable"
+                    },
+                    {
+                        "featureType": "Anti-ghosting",
+                        "detail": "100% (Full Key Rollover)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "title": "Audífonos Inalámbricos Bluetooth JBL Tune 510BT",
+        "currency": "COP",
+        "condition": "Nuevo",
+        "stockQuantity": 110,
+        "description": "Auriculares supraaurales ligeros con sonido Pure Bass y hasta 40 horas de batería.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/87CEEB/000000%3Ftext%3DJBL%2BTune%2BAzul"
+        ],
+        "priceDetails": {
+            "currentPrice": 180000.00,
+            "originalPrice": 220000.00,
+            "discountPercentage": 18.18
+        },
+        "sellerInfo": {
+            "name": "Música Móvil",
+            "rating": 4.7,
+            "salesVolume": 3500
+        },
+        "installments": {
+            "count": 6,
+            "amount": 30000.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "48 horas",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Especificaciones de Audio",
+                "features": [
+                    {
+                        "featureType": "Conectividad",
+                        "detail": "Bluetooth 5.0"
+                    },
+                    {
+                        "featureType": "Duración batería",
+                        "detail": "40 horas"
+                    },
+                    {
+                        "featureType": "Tiempo de carga",
+                        "detail": "2 horas (carga rápida)"
+                    },
+                    {
+                        "featureType": "Micrófono",
+                        "detail": "Sí (Manos libres)"
+                    },
+                    {
+                        "featureType": "Color",
+                        "detail": "Azul"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "title": "Refrigerador Side by Side LG 600L",
+        "currency": "CLP",
+        "condition": "Nuevo",
+        "stockQuantity": 5,
+        "description": "Nevera con dispensador de agua y hielo, tecnología No Frost y compresor Inverter.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/B0C4DE/000000%3Ftext%3DRefrigerador%2BLG"
+        ],
+        "priceDetails": {
+            "currentPrice": 999990.00,
+            "originalPrice": 1299990.00,
+            "discountPercentage": 23.1
+        },
+        "sellerInfo": {
+            "name": "Línea Blanca Pro",
+            "rating": 4.3,
+            "salesVolume": 500
+        },
+        "installments": {
+            "count": 12,
+            "amount": 83332.50,
+            "totalInterest": 150000.00
+        },
+        "shipping": {
+            "deliveryTime": "Entrega especializada 7 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Capacidad y Tecnología",
+                "features": [
+                    {
+                        "featureType": "Capacidad total",
+                        "detail": "600 litros"
+                    },
+                    {
+                        "featureType": "Tipo de motor",
+                        "detail": "Compresor Smart Inverter"
+                    },
+                    {
+                        "featureType": "Sistema de enfriamiento",
+                        "detail": "No Frost"
+                    },
+                    {
+                        "featureType": "Dispensador",
+                        "detail": "Agua y Hielo"
+                    },
+                    {
+                        "featureType": "Color",
+                        "detail": "Acero Inoxidable"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "title": "Kit Herramientas Profesional Total (108 piezas)",
+        "currency": "PEN",
+        "condition": "Nuevo",
+        "stockQuantity": 80,
+        "description": "Caja de herramientas completa con llaves, dados y destornilladores de cromo vanadio.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/9933CC/FFFFFF%3Ftext%3DKit%2BHerramientas"
+        ],
+        "priceDetails": {
+            "currentPrice": 249.00,
+            "originalPrice": 300.00,
+            "discountPercentage": 17.0
+        },
+        "sellerInfo": {
+            "name": "Ferretería Central",
+            "rating": 4.6,
+            "salesVolume": 4500
+        },
+        "installments": {
+            "count": 3,
+            "amount": 83.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Llega mañana",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Contenido y Material",
+                "features": [
+                    {
+                        "featureType": "Cantidad de piezas",
+                        "detail": "108"
+                    },
+                    {
+                        "featureType": "Material",
+                        "detail": "Acero Cromo Vanadio"
+                    },
+                    {
+                        "featureType": "Estuche",
+                        "detail": "Plástico de alto impacto"
+                    },
+                    {
+                        "featureType": "Incluye llaves",
+                        "detail": "Sí (Combinadas y Allen)"
+                    },
+                    {
+                        "featureType": "Uso",
+                        "detail": "Profesional y Hogar"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "title": "Bicicleta Plegable Urbana Rodado 20",
+        "currency": "ARS",
+        "condition": "Nuevo",
+        "stockQuantity": 15,
+        "description": "Ideal para commuting, fácil de guardar y transportar. 6 velocidades.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/8B4513/FFFFFF%3Ftext%3DBicicleta%2BPlegable"
+        ],
+        "priceDetails": {
+            "currentPrice": 165000.00,
+            "originalPrice": 180000.00,
+            "discountPercentage": 8.33
+        },
+        "sellerInfo": {
+            "name": "Ciudad En Bici",
+            "rating": 4.7,
+            "salesVolume": 1100
+        },
+        "installments": {
+            "count": 6,
+            "amount": 27500.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "3 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Especificaciones Técnicas",
+                "features": [
+                    {
+                        "featureType": "Rodado",
+                        "detail": "20"
+                    },
+                    {
+                        "featureType": "Material del marco",
+                        "detail": "Aluminio"
+                    },
+                    {
+                        "featureType": "Velocidades",
+                        "detail": "6 (Shimano)"
+                    },
+                    {
+                        "featureType": "Plegable",
+                        "detail": "Sí (Plegado central)"
+                    },
+                    {
+                        "featureType": "Peso máximo soportado",
+                        "detail": "100 kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "title": "Monitor Gamer Curvo LG 27'' 144Hz",
+        "currency": "USD",
+        "condition": "Nuevo",
+        "stockQuantity": 45,
+        "description": "Monitor curvo con tiempo de respuesta de 1ms, ideal para juegos competitivos.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/1E90FF/FFFFFF%3Ftext%3DMonitor%2BCurvo"
+        ],
+        "priceDetails": {
+            "currentPrice": 349.99,
+            "originalPrice": 400.00,
+            "discountPercentage": 12.5
+        },
+        "sellerInfo": {
+            "name": "PC Master Race Store",
+            "rating": 4.9,
+            "salesVolume": 7000
+        },
+        "installments": {
+            "count": 12,
+            "amount": 29.17,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "24 horas",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Rendimiento Gaming",
+                "features": [
+                    {
+                        "featureType": "Tamaño de pantalla",
+                        "detail": "27 pulgadas"
+                    },
+                    {
+                        "featureType": "Curvatura",
+                        "detail": "1500R"
+                    },
+                    {
+                        "featureType": "Tasa de refresco",
+                        "detail": "144 Hz"
+                    },
+                    {
+                        "featureType": "Tiempo de respuesta",
+                        "detail": "1 ms"
+                    },
+                    {
+                        "featureType": "Sincronización",
+                        "detail": "AMD FreeSync Premium"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "title": "Silla de Oficina Ergonómica con soporte lumbar",
+        "currency": "MXN",
+        "condition": "Nuevo",
+        "stockQuantity": 60,
+        "description": "Silla de escritorio con malla transpirable, soporte lumbar ajustable y reposabrazos 3D.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/A9A9A9/000000%3Ftext%3DSilla%2BErgonomica"
+        ],
+        "priceDetails": {
+            "currentPrice": 3500.00,
+            "originalPrice": 4200.00,
+            "discountPercentage": 16.67
+        },
+        "sellerInfo": {
+            "name": "Office Plus",
+            "rating": 4.5,
+            "salesVolume": 3200
+        },
+        "installments": {
+            "count": 6,
+            "amount": 583.33,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "48 horas (Requiere ensamblaje)",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Ajustes y Materiales",
+                "features": [
+                    {
+                        "featureType": "Material del asiento",
+                        "detail": "Malla transpirable"
+                    },
+                    {
+                        "featureType": "Soporte lumbar",
+                        "detail": "Ajustable en altura y profundidad"
+                    },
+                    {
+                        "featureType": "Altura regulable",
+                        "detail": "Sí (Neumática)"
+                    },
+                    {
+                        "featureType": "Inclinación",
+                        "detail": "Sí (Bloqueable)"
+                    },
+                    {
+                        "featureType": "Peso máximo",
+                        "detail": "120 kg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "title": "Kit de Iluminación LED Fotográfica (2 paneles)",
+        "currency": "COP",
+        "condition": "Nuevo",
+        "stockQuantity": 20,
+        "description": "Paneles LED bicolor de 660 luces, ideal para estudios de fotografía y video.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/FFD700/000000%3Ftext%3DKit%2BLED%2BFoto"
+        ],
+        "priceDetails": {
+            "currentPrice": 650000.00,
+            "originalPrice": 650000.00,
+            "discountPercentage": 0.0
+        },
+        "sellerInfo": {
+            "name": "Pro Foto Video",
+            "rating": 5.0,
+            "salesVolume": 450
+        },
+        "installments": {
+            "count": 12,
+            "amount": 54166.67,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "7 días (Importado)",
+            "freeShipping": false,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Especificaciones de Luz",
+                "features": [
+                    {
+                        "featureType": "Cantidad de paneles",
+                        "detail": "2"
+                    },
+                    {
+                        "featureType": "Temperatura de color",
+                        "detail": "3200K - 5600K (Bicolor)"
+                    },
+                    {
+                        "featureType": "Potencia",
+                        "detail": "40W por panel"
+                    },
+                    {
+                        "featureType": "Alimentación",
+                        "detail": "Adaptador AC o Batería NP-F"
+                    },
+                    {
+                        "featureType": "Control de brillo",
+                        "detail": "1% a 100%"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "title": "Aspiradora Robot Inteligente Xiaomi S10",
+        "currency": "CLP",
+        "condition": "Nuevo",
+        "stockQuantity": 35,
+        "description": "Aspira y trapea. Mapeo láser LDS, control por App y compatible con asistentes de voz.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/808080/FFFFFF%3Ftext%3DAspiradora%2BRobot"
+        ],
+        "priceDetails": {
+            "currentPrice": 280000.00,
+            "originalPrice": 350000.00,
+            "discountPercentage": 20.0
+        },
+        "sellerInfo": {
+            "name": "Hogar Futuro",
+            "rating": 4.7,
+            "salesVolume": 1800
+        },
+        "installments": {
+            "count": 6,
+            "amount": 46666.67,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Llega en 48 horas",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Funcionalidad",
+                "features": [
+                    {
+                        "featureType": "Mapeo",
+                        "detail": "Láser LDS"
+                    },
+                    {
+                        "featureType": "Funciones",
+                        "detail": "Aspira y Trapea"
+                    },
+                    {
+                        "featureType": "Succión máxima",
+                        "detail": "4000 Pa"
+                    },
+                    {
+                        "featureType": "Control",
+                        "detail": "App y Voz (Alexa/Google)"
+                    },
+                    {
+                        "featureType": "Batería",
+                        "detail": "5200 mAh (hasta 2 horas)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "title": "Reloj Smartwatch Garmin Forerunner 965",
+        "currency": "USD",
+        "condition": "Nuevo",
+        "stockQuantity": 18,
+        "description": "Reloj GPS premium para triatletas. Pantalla AMOLED, mapas y métricas avanzadas de rendimiento.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/00FFFF/000000%3Ftext%3DGarmin%2B965"
+        ],
+        "priceDetails": {
+            "currentPrice": 599.99,
+            "originalPrice": 599.99,
+            "discountPercentage": 0.0
+        },
+        "sellerInfo": {
+            "name": "Deportes Extremos",
+            "rating": 4.9,
+            "salesVolume": 950
+        },
+        "installments": {
+            "count": 12,
+            "amount": 49.99,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "3 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Especificaciones Deportivas",
+                "features": [
+                    {
+                        "featureType": "GPS",
+                        "detail": "Multibanda"
+                    },
+                    {
+                        "featureType": "Pantalla",
+                        "detail": "AMOLED"
+                    },
+                    {
+                        "featureType": "Resistencia al agua",
+                        "detail": "5 ATM"
+                    },
+                    {
+                        "featureType": "Material del bisel",
+                        "detail": "Titanio"
+                    },
+                    {
+                        "featureType": "Duración de batería (Modo GPS)",
+                        "detail": "Hasta 31 horas"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "title": "Termo Stanley Quencher H2.0 (1.18 Litros)",
+        "currency": "MXN",
+        "condition": "Nuevo",
+        "stockQuantity": 150,
+        "description": "Vaso térmico con asa y pajita reutilizable, mantiene líquidos fríos hasta 11 horas.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/8FBC8F/000000%3Ftext%3DStanley%2BQuencher%2BVerde"
+        ],
+        "priceDetails": {
+            "currentPrice": 789.00,
+            "originalPrice": 850.00,
+            "discountPercentage": 7.18
+        },
+        "sellerInfo": {
+            "name": "Hydrate Now",
+            "rating": 4.8,
+            "salesVolume": 12000
+        },
+        "installments": {
+            "count": 3,
+            "amount": 263.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "24 horas",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Detalles del Recipiente",
+                "features": [
+                    {
+                        "featureType": "Capacidad",
+                        "detail": "1.18 L"
+                    },
+                    {
+                        "featureType": "Material",
+                        "detail": "Acero inoxidable 18/8 (Libre de BPA)"
+                    },
+                    {
+                        "featureType": "Mantiene frío",
+                        "detail": "11 horas"
+                    },
+                    {
+                        "featureType": "Apto para portavasos",
+                        "detail": "Sí (Base estrecha)"
+                    },
+                    {
+                        "featureType": "Incluye",
+                        "detail": "Tapa giratoria y pajita"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "title": "Máscara de Buceo con Snorkel Integrado",
+        "currency": "PEN",
+        "condition": "Nuevo",
+        "stockQuantity": 40,
+        "description": "Máscara full face para snorkel, visión 180° y sistema anti-empañamiento.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/ADD8E6/000000%3Ftext%3DMascara%2BSnorkel"
+        ],
+        "priceDetails": {
+            "currentPrice": 149.00,
+            "originalPrice": 149.00,
+            "discountPercentage": 0.0
+        },
+        "sellerInfo": {
+            "name": "AquaFun",
+            "rating": 4.1,
+            "salesVolume": 500
+        },
+        "installments": {
+            "count": 1,
+            "amount": 149.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "5 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Características de Uso",
+                "features": [
+                    {
+                        "featureType": "Campo de visión",
+                        "detail": "180°"
+                    },
+                    {
+                        "featureType": "Sistema",
+                        "detail": "Anti-empañamiento y anti-fugas"
+                    },
+                    {
+                        "featureType": "Talla",
+                        "detail": "S/M y L/XL"
+                    },
+                    {
+                        "featureType": "Tipo de snorkel",
+                        "detail": "Seco (Evita entrada de agua)"
+                    },
+                    {
+                        "featureType": "Material",
+                        "detail": "Silicona y Policarbonato"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "title": "Guitarra Acústica Yamaha F310",
+        "currency": "ARS",
+        "condition": "Nuevo",
+        "stockQuantity": 10,
+        "description": "Guitarra folk ideal para principiantes, excelente relación calidad-precio. Tapa de pícea.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/CD853F/FFFFFF%3Ftext%3DGuitarra%2BYamaha"
+        ],
+        "priceDetails": {
+            "currentPrice": 120000.00,
+            "originalPrice": 120000.00,
+            "discountPercentage": 0.0
+        },
+        "sellerInfo": {
+            "name": "Musical Express",
+            "rating": 4.8,
+            "salesVolume": 2500
+        },
+        "installments": {
+            "count": 6,
+            "amount": 20000.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "Llega en 2 días",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Especificaciones Físicas",
+                "features": [
+                    {
+                        "featureType": "Tipo de guitarra",
+                        "detail": "Acústica"
+                    },
+                    {
+                        "featureType": "Tapa",
+                        "detail": "Pícea"
+                    },
+                    {
+                        "featureType": "Aros y Fondo",
+                        "detail": "Meranti"
+                    },
+                    {
+                        "featureType": "Tamaño",
+                        "detail": "Folk (4/4)"
+                    },
+                    {
+                        "featureType": "Acabado",
+                        "detail": "Mate"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "title": "Smartwatch Xiaomi Band 8 Pro",
+        "currency": "USD",
+        "condition": "Nuevo",
+        "stockQuantity": 95,
+        "description": "Pulsera de actividad con pantalla AMOLED, GPS integrado y monitoreo de salud 24/7.",
+        "imageUrls": [
+            "https://www.google.com/search?q=https://placehold.co/600x400/FFB6C1/000000%3Ftext%3DXiaomi%2BBand%2B8%2BPro"
+        ],
+        "priceDetails": {
+            "currentPrice": 75.00,
+            "originalPrice": 90.00,
+            "discountPercentage": 16.67
+        },
+        "sellerInfo": {
+            "name": "Wearable Tech Store",
+            "rating": 4.6,
+            "salesVolume": 8000
+        },
+        "installments": {
+            "count": 3,
+            "amount": 25.00,
+            "totalInterest": 0.0
+        },
+        "shipping": {
+            "deliveryTime": "1 día",
+            "freeShipping": true,
+            "returnsAccepted": true
+        },
+        "featuresList": [
+            {
+                "groupName": "Funciones y Pantalla",
+                "features": [
+                    {
+                        "featureType": "Pantalla",
+                        "detail": "AMOLED 1.74"},
+                        {
+                            "featureType": "Batería",
+                            "detail": "Hasta 14 días"
+                        },
+                        {
+                            "featureType": "GPS",
+                            "detail": "Integrado"
+                        },
+                        {
+                            "featureType": "Monitoreo",
+                            "detail": "Ritmo cardíaco, SpO2 y sueño"
+                        },
+                        {
+                            "featureType": "Resistencia al agua",
+                            "detail": "5 ATM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "title": "Máquina de Coser Singer Heavy Duty 4423",
+            "currency": "MXN",
+            "condition": "Nuevo",
+            "stockQuantity": 20,
+            "description": "Máquina de coser robusta y rápida, ideal para telas pesadas. 23 puntadas.",
+            "imageUrls": [
+                "https://www.google.com/search?q=https://placehold.co/600x400/696969/FFFFFF%3Ftext%3DMaquina%2BSinger"
+            ],
+            "priceDetails": {
+                "currentPrice": 5800.00,
+                "originalPrice": 6500.00,
+                "discountPercentage": 10.77
+            },
+            "sellerInfo": {
+                "name": "Costura y Diseño",
+                "rating": 4.7,
+                "salesVolume": 1500
+            },
+            "installments": {
+                "count": 6,
+                "amount": 966.67,
+                "totalInterest": 0.0
+            },
+            "shipping": {
+                "deliveryTime": "Llega en 4 días",
+                "freeShipping": true,
+                "returnsAccepted": true
+            },
+            "featuresList": [
+                {
+                    "groupName": "Capacidades de Costura",
+                    "features": [
+                        {
+                            "featureType": "Velocidad máxima",
+                            "detail": "1100 puntadas/min"
+                        },
+                        {
+                            "featureType": "Tipo de máquina",
+                            "detail": "Mecánica"
+                        },
+                        {
+                            "featureType": "Material del chasis",
+                            "detail": "Metálico"
+                        },
+                        {
+                            "featureType": "Cantidad de puntadas",
+                            "detail": "23"
+                        },
+                        {
+                            "featureType": "Enhebrador automático",
+                            "detail": "Sí"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "title": "Cámara Mirrorless Canon EOS R100",
+            "currency": "COP",
+            "condition": "Nuevo",
+            "stockQuantity": 15,
+            "description": "Cámara sin espejo ideal para creadores de contenido. Video 4K y sensor APS-C de 24.2 MP.",
+            "imageUrls": [
+                "https://www.google.com/search?q=https://placehold.co/600x400/A0522D/FFFFFF%3Ftext%3DCanon%2BR100"
+            ],
+            "priceDetails": {
+                "currentPrice": 2900000.00,
+                "originalPrice": 3200000.00,
+                "discountPercentage": 9.38
+            },
+            "sellerInfo": {
+                "name": "Foto Estudio",
+                "rating": 4.8,
+                "salesVolume": 600
+            },
+            "installments": {
+                "count": 12,
+                "amount": 241666.67,
+                "totalInterest": 0.0
+            },
+            "shipping": {
+                "deliveryTime": "5 días",
+                "freeShipping": true,
+                "returnsAccepted": true
+            },
+            "featuresList": [
+                {
+                    "groupName": "Imagen y Video",
+                    "features": [
+                        {
+                            "featureType": "Tipo de sensor",
+                            "detail": "APS-C (CMOS)"
+                        },
+                        {
+                            "featureType": "Resolución",
+                            "detail": "24.2 Megapíxeles"
+                        },
+                        {
+                            "featureType": "Montura",
+                            "detail": "Canon RF"
+                        },
+                        {
+                            "featureType": "Resolución de video",
+                            "detail": "4K (Recortado) / Full HD (60fps)"
+                        },
+                        {
+                            "featureType": "Conectividad",
+                            "detail": "Wi-Fi y Bluetooth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "title": "Juego de Mesa Catan (Expansión 5-6 jugadores)",
+            "currency": "CLP",
+            "condition": "Nuevo",
+            "stockQuantity": 70,
+            "description": "Expansión que permite jugar el clásico Catan con hasta 6 jugadores.",
+            "imageUrls": [
+                "https://www.google.com/search?q=https://placehold.co/600x400/DEB887/000000%3Ftext%3DCatan%2BExpansion"
+            ],
+            "priceDetails": {
+                "currentPrice": 24990.00,
+                "originalPrice": 28000.00,
+                "discountPercentage": 10.75
+            },
+            "sellerInfo": {
+                "name": "Mundo Lúdico",
+                "rating": 5.0,
+                "salesVolume": 3000
+            },
+            "installments": {
+                "count": 3,
+                "amount": 8330.00,
+                "totalInterest": 0.0
+            },
+            "shipping": {
+                "deliveryTime": "Llega mañana",
+                "freeShipping": true,
+                "returnsAccepted": true
+            },
+            "featuresList": [
+                {
+                    "groupName": "Detalles del Juego",
+                    "features": [
+                        {
+                            "featureType": "Jugadores",
+                            "detail": "5 a 6"
+                        },
+                        {
+                            "featureType": "Edad mínima",
+                            "detail": "10 años"
+                        },
+                        {
+                            "featureType": "Tiempo de juego",
+                            "detail": "60-90 minutos"
+                        },
+                        {
+                            "featureType": "Requiere juego base",
+                            "detail": "Sí (Catan)"
+                        },
+                        {
+                            "featureType": "Idioma",
+                            "detail": "Español"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "title": "Set de Maquillaje Profesional Urban Decay",
+            "currency": "PEN",
+            "condition": "Nuevo",
+            "stockQuantity": 30,
+            "description": "Paleta de sombras 'Naked' y kit de labiales de larga duración. Edición limitada.",
+            "imageUrls": [
+                "https://www.google.com/search?q=https://placehold.co/600x400/FF69B4/FFFFFF%3Ftext%3DUrban%2BDecay"
+            ],
+            "priceDetails": {
+                "currentPrice": 320.00,
+                "originalPrice": 450.00,
+                "discountPercentage": 28.89
+            },
+            "sellerInfo": {
+                "name": "Belleza Glam",
+                "rating": 4.9,
+                "salesVolume": 4200
+            },
+            "installments": {
+                "count": 6,
+                "amount": 53.33,
+                "totalInterest": 0.0
+            },
+            "shipping": {
+                "deliveryTime": "2 días hábiles",
+                "freeShipping": true,
+                "returnsAccepted": false
+            },
+            "featuresList": [
+                {
+                    "groupName": "Composición del Kit",
+                    "features": [
+                        {
+                            "featureType": "Producto principal",
+                            "detail": "Paleta Naked"
+                        },
+                        {
+                            "featureType": "Libre de crueldad",
+                            "detail": "Sí"
+                        },
+                        {
+                            "featureType": "Tono de piel",
+                            "detail": "Todos"
+                        },
+                        {
+                            "featureType": "Acabado",
+                            "detail": "Mate y brillante"
+                        },
+                        {
+                            "featureType": "Contenido",
+                            "detail": "12 sombras y 3 labiales"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "title": "Balón de Fútbol Adidas Euro 24 Oficial",
+            "currency": "ARS",
+            "condition": "Nuevo",
+            "stockQuantity": 150,
+            "description": "Réplica oficial del balón de la Eurocopa 2024. Construcción sin costuras termoselladas.",
+            "imageUrls": [
+                "https://www.google.com/search?q=https://placehold.co/600x400/8A2BE2/FFFFFF%3Ftext%3DBalon%2BEuro%2B24"
+            ],
+            "priceDetails": {
+                "currentPrice": 60000.00,
+                "originalPrice": 75000.00,
+                "discountPercentage": 20.0
+            },
+            "sellerInfo": {
+                "name": "Deportes Fan",
+                "rating": 4.5,
+                "salesVolume": 10000
+            },
+            "installments": {
+                "count": 3,
+                "amount": 20000.00,
+                "totalInterest": 0.0
+            },
+            "shipping": {
+                "deliveryTime": "Llega mañana",
+                "freeShipping": true,
+                "returnsAccepted": true
+            },
+            "featuresList": [
+                {
+                    "groupName": "Especificaciones Deportivas",
+                    "features": [
+                        {
+                            "featureType": "Tamaño",
+                            "detail": "N° 5 (Oficial)"
+                        },
+                        {
+                            "featureType": "Construcción",
+                            "detail": "Termosellada"
+                        },
+                        {
+                            "featureType": "Material",
+                            "detail": "Poliuretano 100%"
+                        },
+                        {
+                            "featureType": "Uso recomendado",
+                            "detail": "Césped natural y artificial"
+                        },
+                        {
+                            "featureType": "Modelo",
+                            "detail": "Euro 24 (Réplica)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "title": "Libro: El Silencio de la Ciudad Blanca",
+            "currency": "COP",
+            "condition": "Usado",
+            "stockQuantity": 5,
+            "description": "Novela de Eva García Sáenz de Urturi. Tapa blanda.",
+            "imageUrls": [
+                "https://www.google.com/search?q=https://placehold.co/600x400/1C3144/FFFFFF%3Ftext%3DLibro%2BSilencio"
+            ],
+            "priceDetails": {
+                "currentPrice": 45000.00,
+                "originalPrice": 45000.00,
+                "discountPercentage": 0.0
+            },
+            "sellerInfo": {
+                "name": "Librería del Lector",
+                "rating": 4.9,
+                "salesVolume": 800
+            },
+            "installments": {
+                "count": 1,
+                "amount": 45000.00,
+                "totalInterest": 0.0
+            },
+            "shipping": {
+                "deliveryTime": "3 días",
+                "freeShipping": false,
+                "returnsAccepted": false
+            },
+            "featuresList": [
+                {
+                    "groupName": "Detalles del Libro",
+                    "features": [
+                        {
+                            "featureType": "Autor",
+                            "detail": "Eva García Sáenz de Urturi"
+                        },
+                        {
+                            "featureType": "Formato",
+                            "detail": "Tapa blanda"
+                        },
+                        {
+                            "featureType": "Páginas",
+                            "detail": "480"
+                        },
+                        {
+                            "featureType": "Género",
+                            "detail": "Thriller/Misterio"
+                        },
+                        {
+                            "featureType": "ISBN",
+                            "detail": "978-8408169123"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "title": "Audífonos de Diadema con Cancelación de Ruido Sony WH-1000XM5",
+            "currency": "USD",
+            "condition": "Nuevo",
+            "stockQuantity": 80,
+            "description": "Cancelación de ruido líder en la industria con procesador QN1. Sonido premium.",
+            "imageUrls": [
+                "https://www.google.com/search?q=https://placehold.co/600x400/000000/FFFFFF%3Ftext%3DSony%2BXM5"
+            ],
+            "priceDetails": {
+                "currentPrice": 399.99,
+                "originalPrice": 450.00,
+                "discountPercentage": 11.11
+            },
+            "sellerInfo": {
+                "name": "Audio Pro Experts",
+                "rating": 4.9,
+                "salesVolume": 850
+            },
+            "installments": {
+                "count": 6,
+                "amount": 66.67,
+                "totalInterest": 0.0
+            },
+            "shipping": {
+                "deliveryTime": "Envío en 24 horas",
+                "freeShipping": true,
+                "returnsAccepted": true
+            },
+            "featuresList": [
+                {
+                    "groupName": "Especificaciones de Audio",
+                    "features": [
+                        {
+                            "featureType": "Cancelación de Ruido",
+                            "detail": "Sí (ANC líder)"
+                        },
+                        {
+                            "featureType": "Conexión",
+                            "detail": "Bluetooth 5.2 / Jack 3.5mm"
+                        },
+                        {
+                            "featureType": "Duración Batería",
+                            "detail": "Hasta 30 horas (con ANC)"
+                        },
+                        {
+                            "featureType": "Carga Rápida",
+                            "detail": "Sí (3h de uso en 3 min de carga)"
+                        },
+                        {
+                            "featureType": "Micrófonos",
+                            "detail": "8 micrófonos para llamadas nítidas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
